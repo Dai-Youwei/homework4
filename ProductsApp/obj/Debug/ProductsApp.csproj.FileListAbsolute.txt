@@ -1,0 +1,16 @@
+D:\c#Exercise\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+D:\c#Exercise\ProductsApp\ProductsApp\bin\ProductsApp.dll
+D:\c#Exercise\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+D:\c#Exercise\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+D:\c#Exercise\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\c#Exercise\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+D:\c#Exercise\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\c#Exercise\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+D:\c#Exercise\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\c#Exercise\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+D:\c#Exercise\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\c#Exercise\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+D:\c#Exercise\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+D:\c#Exercise\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+D:\c#Exercise\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+D:\c#Exercise\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
